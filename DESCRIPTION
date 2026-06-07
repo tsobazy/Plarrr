@@ -9,8 +9,7 @@ Authors@R: c(
 Description: Provides helper functions for cleaning, summarizing, and reshaping
     plastic waste data frames to simplify the creation of tables and ggplot2
     visualizations.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Imports:
     arrow,
     broom,
