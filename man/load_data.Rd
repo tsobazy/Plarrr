@@ -13,7 +13,7 @@ num_events, volunteer, and other country level metrics.
 }
 \description{
 Loads the plastic waste dataset directly
-from TidyTuesday
+from the package
 }
 \examples{
 df <- load_data()

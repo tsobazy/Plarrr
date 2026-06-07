@@ -1,7 +1,15 @@
 ---
 title: "Main Functions"
-format: html
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Main Functions}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
 ---
+
+```{r}
+library(Plarrr)
+```
 
 ## load_data()
 
